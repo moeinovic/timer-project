@@ -18,5 +18,3 @@ Click the **Restart** button to return the timer to default.
 
 * MiT App Inventor
 
-## Developer
-* Moeinovic
